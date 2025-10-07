@@ -17,7 +17,3 @@ A Flutter travel app demonstrating:
 ✅ Drawer & Settings – dark mode toggle  
 ✅ Global state updates reflected across screens  
 
-## How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/MAD201-ASSIGNMENT01-IshmeetSingh.git
